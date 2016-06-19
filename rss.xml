@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Mindfulness Resources]]></title>
+        <description><![CDATA[Mindfulness Resources]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 19 Jun 2016 11:22:52 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Just fifteen minutes of mindfulness meditation can improve your decision making]]></title>
+            <description><![CDATA[<article><h1>Just fifteen minutes of mindfulness meditation can improve your decision making</h1><p>Do you have an expensive but uncomfortable pair of shoes or jeans at the back of your cupboard that you never ever wear, but you simply cannot throw away because to do so would be to admit defeat and recognise that you wasted a lot of money?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11acacee3a80c419393e670959f3707c/noop.jpg?input=http%3A%2F%2F3.bp.blogspot.com%2F-0MQ_xCfALaA%2FUtemBiQyniI%2FAAAAAAAAHsg%2FCKuUGfhljxc%2Fs1600%2Fmindfulness.jpg"></article>]]></description>
+            <link>http://digest.bps.org.uk/2014/01/just-fifteen-minutes-of-mindfulness.html?m=1</link>
+            <guid isPermaLink="false">4529a57b-bed4-4cac-b46e-5801cf5bd952</guid>
+            <pubDate>Sun, 19 Jun 2016 11:22:51 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
