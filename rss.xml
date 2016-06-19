@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Mindfulness Resources]]></title>
         <description><![CDATA[Mindfulness Resources]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mindfulness-resources/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 11:22:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 19 Jun 2016 11:23:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mindfulness-resources/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mindfulness, Meditation, Wellness and Their Connection to Corporate America's Bottom Line]]></title>
+            <description><![CDATA[<article><h1>Mindfulness, Meditation, Wellness and Their Connection to Corporate America's Bottom Line</h1><p>On Tuesday I'll be guest-hosting CNBC's Squawk Box, a program that bills itself as the show that "brings Wall Street to Main Street." As well as discussing Cyprus and a possible euro-crisis, we are going to discuss the growing trend in corporate America of taking steps -- meditation, yoga, mindfulness trainings -- to reduce stress and improve health and creativity.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c1d0afdf847c927615bbc226ed742a72/noop.jpg?input=http%3A%2F%2Fecx.images-amazon.com%2Fimages%2FI%2F41J6jAFf%252BiL._SL160_.jpg"></article>]]></description>
+            <link>http://www.huffingtonpost.com/arianna-huffington/corporate-wellness_b_2903222.html</link>
+            <guid isPermaLink="false">56cd61db-6c80-46e2-a9e9-0e2b544ad7ce</guid>
+            <pubDate>Sun, 19 Jun 2016 11:22:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Just fifteen minutes of mindfulness meditation can improve your decision making]]></title>
             <description><![CDATA[<article><h1>Just fifteen minutes of mindfulness meditation can improve your decision making</h1><p>Do you have an expensive but uncomfortable pair of shoes or jeans at the back of your cupboard that you never ever wear, but you simply cannot throw away because to do so would be to admit defeat and recognise that you wasted a lot of money?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/11acacee3a80c419393e670959f3707c/noop.jpg?input=http%3A%2F%2F3.bp.blogspot.com%2F-0MQ_xCfALaA%2FUtemBiQyniI%2FAAAAAAAAHsg%2FCKuUGfhljxc%2Fs1600%2Fmindfulness.jpg"></article>]]></description>
